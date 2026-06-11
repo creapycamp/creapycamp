@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 BS Artificial Intelligence Student (7th Semester) at FAST-NUCES CFD.<br><br>🔭 Working on Machine Learning, Deep Learning, and Computer Vision projects.<br><br>🌱 Learning YOLO, Neural Networks, and Generative AI.<br><br>🤝 Open to internship opportunities and AI collaborations.<br><br>💬 Ask me about Python, ML, Deep Learning, and Computer Vision.<br><br>⚡ Passionate about solving real-world problems using AI.
+Building intelligent systems with Machine Learning, Agentic AI, and AI Automation. BS Artificial Intelligence student at FAST-NUCES, focused on turning ideas into scalable, real-world AI solutions. 🚀
 
 
 ## 🌐 Socials:
